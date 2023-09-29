@@ -2,4 +2,4 @@
 Ivan Dubro
 - To learn how to use Python
 - To understand how coding is used in oceanography
-- to gain learn how to use github and jupyterhub
+- to learn how to use github and jupyterhub
